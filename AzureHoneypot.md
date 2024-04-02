@@ -6,7 +6,7 @@ Link to his youtube channel: https://www.youtube.com/@JoshMadakor
 
 > Please note if you are trying to follow along and use this writeup as a guide, Microsoft LOVES to change its UI on a regular basis so some of the things described below may be different or just plain not functional. I also don't claim that this is a difinitive method to set something like this up. This is just how I got it to work and achieve my goal. I'm confident there are better/simpler ways to go about this project.
 
-# Things that were learned about:
+# Things that were learned:
 - Azure setup
 - VM deployment and setup (Windows 11)
 - Configure Log Analytics Workspace (LAW) to ingest logs from the virtual machine
